@@ -14,5 +14,5 @@ var bot = new builder.UniversalBot(connector);
 server.post('/api/messages', connector.listen());
 
 bot.dialog('/', function (session) {
-    session.send("‚Í‚ë[‚í[‚é‚Ç[[[(LEƒÖEM)");
+    session.send("ã¯ã‚ãƒ¼ã‚ãƒ¼ã‚‹ã©ãƒ¼ãƒ¼ãƒ¼(Â´ãƒ»Ï‰ãƒ»ï½€)");
 });
