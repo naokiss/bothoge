@@ -1,0 +1,23 @@
+{
+  "name": "bothoge",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naokiss/bothoge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naokiss/bothoge/issues"
+  },
+  "homepage": "https://github.com/naokiss/bothoge#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.2.0"
+  }
+}
